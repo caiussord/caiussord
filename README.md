@@ -14,6 +14,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   </div>
+
+<style>
+ #badges{
+    display: flex;
+    align-itens: center;
+}
+</style>
   
 <!--
 **caiussord/caiussord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
