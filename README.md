@@ -1,5 +1,5 @@
 ## Hello there! Welcome to my GitHub profile! 👻
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/caius-sordillo-281b07122?">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
