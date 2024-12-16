@@ -1,14 +1,17 @@
-## Hello there! Welcome to my GitHub profile! 👻
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/caius-sordillo-281b07122?">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
+<div id="header" align="center"> 
+<h1> Hello there! Welcome to my GitHub profile! 👻 </h1>
 </div>
-
--💡 I’m currently learning Vue.JS and C#. 
-
-  ### :hammer_and_wrench: Languages and Tools :
+<div id="badges" align="center">
+<h2>You can found more about me here! --->
+<a href="https://www.linkedin.com/in/caius-sordillo-281b07122?">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</h2>
+  </div>
+<div id="section">
+<h3>-💡 I’m currently learning Vue.JS and C#. </h3>
+</div>
+ <div> <h3> :hammer_and_wrench: Languages and Tools :  </h3>  <div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
