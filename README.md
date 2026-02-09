@@ -9,7 +9,6 @@
 </h2>
   </div>
 <div id="section">
-<h3>-💡 I’m currently learning Vue.JS and C#. </h3>
 </div>
  <div> <h3> :hammer_and_wrench: Languages and Tools :  </h3>  <div>
   <div>
